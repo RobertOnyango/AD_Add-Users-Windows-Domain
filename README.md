@@ -5,7 +5,7 @@ If you choose to follow through with the lab walkthrough, take note of the follo
 Run Windows PowerShell ISE as Administrator in your Domain Controller and open the CREATE_USERS.ps1 file.
 Next, in the PowerShell CLI, write and execute the command ‘Set-ExecutionPolicy Unrestricted’ and click on ‘Yes to all’.
 The code comments explain in detail what each line achieves.
-To successfully run the code, first navigate using ‘cd’ to where the code and the names.txt files are located. In our case, they should be on the Desktop of our Domain Server. You can use the ‘ls’ command to confirm the contents of the current directory.
+To successfully run the code, first, navigate using ‘cd’ to where the code and the names.txt files are located. In our case, they should be on the Desktop of our Domain Server. You can use the ‘ls’ command to confirm the contents of the current directory.
 Then click on play on the PowerShell ISE console.
 The output on the CLI as the code runs should be similar to the image below:
 

@@ -1,6 +1,6 @@
 # AD_Add-Users-Windows-Domain
 A PowerShell script that creates an organizational unit populates a home lab Windows Domain with 1,000 users in Active Directory.
-This code is part of a Home Lab where I ran Active Directory to simulate a real-world environment. The code's purpose is to automate adding 1,000+ users to the Windows Domain. You can read more on the lab here.
+This code is part of a Home Lab where I ran Active Directory to simulate a real-world environment. The code's purpose is to automate adding 1,000+ users to the Windows Domain. <a href="https://robertmark94.medium.com/windows-active-directory-home-lab-simulating-an-enterprise-environment-4bab5f08fb60" >You can read more on the lab here. </a>
 If you choose to follow through with the lab walkthrough, take note of the following:
 Run Windows PowerShell ISE as Administrator in your Domain Controller and open the CREATE_USERS.ps1 file.
 Next, in the PowerShell CLI, write and execute the command ‘Set-ExecutionPolicy Unrestricted’ and click on ‘Yes to all’.
